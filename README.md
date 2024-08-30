@@ -3,7 +3,7 @@
 ## Instrucciones
 
 ### 1. Formar Equipos
-   - Divídanse en equipos de 4 personas para trabajar en el ejercicio.
+   - Divídanse en equipos de hasta 4 personas para trabajar en el ejercicio.
 
 ### 2. Hacer un Fork del Proyecto
    - Luego, deben hacer un fork de este repositorio para comenzar a trabajar en tu propia copia.
